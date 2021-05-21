@@ -1,0 +1,19 @@
+p {
+  width: auto;
+  height: 100px;
+  background-color: rgb(196, 194, 192);
+  text-align: center;
+  font-size: 80px;
+  margin-top: 11px;
+  margin-bottom: 11px;
+}
+.черная-карта {
+  margin-right: 5px;
+  margin-left: 5px;
+  display: inline-block;
+}
+.красная-карта {
+  color: crimson;
+  display: inline-block;
+  margin-right: 5px;
+}
