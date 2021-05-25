@@ -1,0 +1,26 @@
+.tutorial {
+  text-align: center;
+}
+.heading {
+  text-align: center;
+}
+div {
+  width: 800px;
+  margin-left: 300px;
+  text-align: left;
+}
+abbr {
+  border-bottom: 1px dashed black;
+}
+span {
+  color: rgb(219, 117, 117);
+}
+.Hello_World {
+  width: 800px;
+  background-color: rgb(224, 220, 220);
+  color: brown;
+}
+mark {
+  color: rgb(150, 229, 240);
+  background-color: rgb(224, 220, 220);
+}
