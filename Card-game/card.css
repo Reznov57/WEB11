@@ -10,10 +10,10 @@ p {
 .черная-карта {
   margin-right: 5px;
   margin-left: 5px;
-  display: inline-block;
+  display: inline-flex;
 }
 .красная-карта {
   color: crimson;
-  display: inline-block;
+  display: inline-flex;
   margin-right: 5px;
 }
