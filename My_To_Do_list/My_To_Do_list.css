@@ -1,0 +1,39 @@
+main {
+  width: 800px;
+  margin-left: 300px;
+}
+h1 {
+  font-size: 40px;
+}
+#yes {
+  background-color: rgb(255, 255, 255);
+  text-decoration: line-through;
+}
+#yes::before {
+  content: url('checked_16.png');
+  padding-right: 1em;
+}
+#yes::after {
+  content: '✖';
+  color: red;
+  padding-left: 1em;
+}
+li {
+  padding-top: 0.33em;
+  padding-bottom: 0.33em;
+}
+li::before {
+  padding-left: 2ch;
+  content: url('unchecked_16.png');
+  padding-right: 1em;
+}
+.list1 {
+  font-size: 33px;
+  list-style: none;
+  background: rgb(136, 233, 250);
+  padding-left: 0ch;
+}
+
+.list1 li:nth-child(odd) {
+  background: rgb(98, 194, 211);
+}

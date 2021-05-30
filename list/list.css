@@ -20,7 +20,7 @@ li {
 
 li:before {
   counter-increment: myCounter;
-  content: counter(myCounter);
+  content: counter(myCounter) '.';
   color: white;
   background: rgb(218, 129, 151);
   display: inline-block;
