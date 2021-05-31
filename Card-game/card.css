@@ -1,4 +1,4 @@
-p {
+span {
   width: auto;
   height: 100px;
   background-color: rgb(196, 194, 192);
@@ -6,14 +6,20 @@ p {
   font-size: 80px;
   margin-top: 11px;
   margin-bottom: 11px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
-.черная-карта {
+.black-card {
   margin-right: 5px;
   margin-left: 5px;
   display: inline-block;
+  
+
 }
-.красная-карта {
+.red-card {
+  margin-right: 5px;
+  margin-left: 5px;
   color: crimson;
   display: inline-block;
-  margin-right: 5px;
+  
 }
