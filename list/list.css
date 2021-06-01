@@ -1,8 +1,8 @@
-main {
+.one_list {
   background-color: rgb(245, 188, 202);
   width: 800px;
 }
-ol {
+.one_text {
   counter-reset: myCounter;
   padding-top: 22px;
   padding-bottom: 22px;
@@ -10,7 +10,7 @@ ol {
   color: white;
 }
 
-li {
+.list_of_frutis {
   list-style: none;
   background-color: rgb(218, 129, 151);
   margin-top: 22px;
@@ -18,7 +18,7 @@ li {
   width: 700px;
 }
 
-li:before {
+.list_of_frutis:before {
   counter-increment: myCounter;
   content: counter(myCounter) '.';
   color: white;
@@ -31,7 +31,7 @@ li:before {
   height: 40px;
 }
 
-span {
+.fruits {
   background-color: rgb(170, 90, 110);
   padding-top: 12px;
   padding-bottom: 13px;

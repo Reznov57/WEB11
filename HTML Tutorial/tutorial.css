@@ -4,7 +4,7 @@
 .heading {
   text-align: center;
 }
-div {
+.world {
   width: 800px;
   margin-left: 300px;
   text-align: left;
@@ -12,7 +12,7 @@ div {
 abbr {
   border-bottom: 1px dashed black;
 }
-span {
+.pink {
   color: rgb(219, 117, 117);
 }
 .Hello_World {
@@ -20,7 +20,13 @@ span {
   background-color: rgb(224, 220, 220);
   color: brown;
 }
-mark {
+.tags {
   color: rgb(150, 229, 240);
   background-color: rgb(224, 220, 220);
+  display:inline-flex;
+  list-style:none;
+  padding-left: 4pt;
+  padding-right: 4pt;
+  
 }
+

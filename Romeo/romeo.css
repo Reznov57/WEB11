@@ -1,14 +1,14 @@
-h1 {
+.heading {
   margin-left: 280px;
   color: rgb(40, 40, 102);
 }
-h2 {
+.act {
   color: rgb(136, 136, 231);
 }
-h3 {
+.prologs {
   color: rgb(184, 184, 235);
 }
-div {
+.one_list {
   width: 800px;
   margin-left: 80px;
 }
