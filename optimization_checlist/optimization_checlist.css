@@ -2,8 +2,6 @@
   text-align: center;
 }
 .olblock {
-  padding-right: 190px;
-  padding-left: 160px;
   text-align: left;
 }
 hr {
@@ -25,35 +23,3 @@ hr {
 .next {
   font-size: 20px;
 }
-!{
-.Papper::before {
-  content: url('Food_C247-128.png');
-}
-.Apple::before {
-  content: url('Food_C240-128.png');
-}
-.Cheese::before {
-  content: url('Food_C217-128.png');
-}
-.Corn::before {
-  content: url('Food_C245-128.png');
-}
-.Mushrom::before {
-  content: url('Food_C239-128.png');
-}
-.Garlic::before {
-  content: url('Food_C238-128.png');
-}
-.Beef::before {
-  content: url('Food_C225-128.png');
-}
-.Fish::before {
-  content: url('Food_C205-128.png');
-}
-.Eggs::before {
-  content: url('Food_C203-128.png');
-}
-.Coriander::before {
-  content: url('Food_C235-128.png');
-}
-!}
