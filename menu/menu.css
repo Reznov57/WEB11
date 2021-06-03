@@ -1,0 +1,18 @@
+.block_menu {
+  list-style-type: none;
+  font-size: 40px;
+  color: #fdfdfd;
+}
+.block {
+  width: 400px;
+  line-height: 2rem;
+  background-color: rgb(160, 160, 160);
+  padding-left: 40px;
+}
+
+img {
+  width: 100px;
+}
+.vertical {
+  vertical-align: 100%;
+}

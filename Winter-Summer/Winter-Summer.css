@@ -1,0 +1,41 @@
+.one_list {
+  background-color: rgb(240, 236, 221);
+  width: 500px;
+  height: 500px;
+  padding: 50px;
+}
+.one_heading {
+  font-size: 20px;
+}
+.year {
+  list-style-type: none;
+}
+.year-item::before {
+  content: "ss";
+}
+.winter-month {
+  list-style-type: none;
+}
+
+.winter-month::before {
+  content: url("winter_16.png");
+}
+.spring-month {
+  list-style-type: none;
+}
+.spring-month::before {
+  content: url("spring_16.png");
+}
+
+.summer-month {
+  list-style-type: none;
+}
+.summer-month::before {
+  content: url("summer_16.png");
+}
+.Autumn-month {
+  list-style-type: none;
+}
+.Autumn-month::before {
+  content: url("autumn_16.png");
+}

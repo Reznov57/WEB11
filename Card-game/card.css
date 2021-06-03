@@ -1,0 +1,27 @@
+.card {
+  width: auto;
+  height: 100px;
+  text-align: left;
+  font-size: 80px;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.black-card {
+  margin-right: 5px;
+  margin-left: 5px;
+  background-color: rgb(209, 209, 209);
+  padding-left: 5px;
+  padding-right: 5px;
+  
+}
+.red-card {
+  margin-right: 5px;
+  margin-left: 5px;
+  color: crimson;
+  background-color: rgb(209, 209, 209);
+  padding-left: 5px;
+  padding-right: 5px;
+  
+}

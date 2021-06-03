@@ -1,0 +1,26 @@
+
+.one_list{
+    width: 800px;
+    background-color: rgb(238, 238, 238);
+    padding: 33px;
+    font-family:Verdana, expanded, sans-serif;  
+}
+.heading{
+    font-size:22px;
+    
+}
+.none{
+    font-style: italic;
+}
+.dop{
+    color: rgb(131, 131, 131);
+}
+.tags_list1{
+    list-style:none;
+    padding-left: 0px;
+    display: inline-flex;
+
+}
+.dont_line{
+    text-decoration: none;
+}

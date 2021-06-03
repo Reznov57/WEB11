@@ -1,0 +1,14 @@
+body {
+  margin-top: 0px;
+}
+.logo {
+  width: 120px;
+}
+.logo-text {
+  display: inline-block;
+  width: 222px;
+}
+main {
+  display: flex;
+  margin-right: 5px;
+}
