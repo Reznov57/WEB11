@@ -1,0 +1,25 @@
+.one_block {
+  width: 800px;
+  height: 500px;
+  background-color: rgb(202, 202, 202);
+}
+.two_block {
+  margin-left: 55px;
+}
+.opr {
+  width: 720px;
+  height: 40px;
+  background-color: rgb(50, 124, 143);
+  padding-left: 22px;
+  font-size: 20px;
+}
+.ras {
+  width: 702px;
+  height: auto;
+  background-color: rgb(74, 177, 202);
+  padding: 20px;
+}
+span {
+  height: 40px;
+  vertical-align: 100%;
+}
