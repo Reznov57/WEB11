@@ -1,0 +1,11 @@
+.block {
+  width: 800px;
+  background-color: rgb(194, 190, 190);
+  padding: 22px;
+}
+.rim {
+  list-style-type: upper-roman;
+}
+.book {
+  list-style-type: lower-alpha;
+}
