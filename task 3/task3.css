@@ -6,6 +6,15 @@
   padding-top: 10px;
   padding-bottom: 10px;
 }
+.two_block{
+  padding-left: 42px;
+  width: 740px;
+  color: black;
+  font-size: 12px;
+}
+.bold{
+  font-weight: bold;
+}
 
 .opr {
   width: 697px;

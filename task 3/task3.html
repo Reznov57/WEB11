@@ -15,10 +15,11 @@
       <dt class="opr">TAG
       <dd class="ras">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae numquam quisquam distinctio
         sunt voluptate non eius asperiores, nisi perspiciatis vel delectus dolor impedit illum repellendus? Consectetur
-        dignissimos sed atque ratione facere quo<sup><a href='one'>[1]</a></sup> magnam, explicabo voluptatibus et
+        dignissimos sed atque ratione facere quo<sup><a href='#one'>[1]</a></sup> magnam, explicabo voluptatibus et
         voluptas corrupti
         quaerat aperiam
-        nulla beatae quis fugit, obcaecati unde laudantium fuga laboriosam tempore<sup>[2]</sup>.</dd>
+        nulla beatae quis fugit, obcaecati unde laudantium fuga laboriosam tempore<sup><a href="#two">[2]</a></sup>.
+      </dd>
       </dt>
       <dt class="opr">ATTRIBUTE
       <dd class="ras">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut eveniet vitae, sequi est libero
@@ -29,13 +30,17 @@
       <dt class="opr">ELEMENT
       <dd class="ras">Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus cupiditate ut odio eius,
         quibusdam voluptatibus maxime nemo amet, cumque dolorem architecto nulla molestias ad consequuntur ab veniam
-        expedita. Voluptate, magni.</dd>
+        expedita. &ltVoluptate&gt, magni.</dd>
       </dt>
     </dl>
-    <div>
-      <p><a name='one'>Lorem</a>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur mollitia neque
+    <div class="two_block">
+      <p><a class='bold' id='one'>[1]</a>ipsum dolor sit amet consectetur adipisicing elit. Autem tenetur mollitia
+        neque
         minima aut molestias
         suscipit accusamus, qui quod quis placeat quaerat ut temporibus dolor id saepe ipsam! Iusto, quibusdam!</p>
+      <p><a class='bold' id='two'>[2]</a> suscipit accusamus, qui quod quis placeat quaerat ut temporibus dolor id saepe
+        ipsam!
+        Iusto, quibusdam!</p>
     </div>
   </main>
 </body>
